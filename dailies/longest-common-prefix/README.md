@@ -14,3 +14,5 @@ Output: "ca";
 ```
 
 In this exercise, you need to find the longest common prefix that all the strings in the array share. The common prefix is a sequence of characters that appear at the beginning of all strings.
+
+Date: 27.07.2023

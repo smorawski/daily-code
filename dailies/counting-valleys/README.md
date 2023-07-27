@@ -18,3 +18,5 @@ Explanation: The hiker's path can be represented as [0, -1, -2, -1, 0, -1, -2, -
 
 **Note:**
 Second example above is (AFAIU) incorrect. `Output` should be 3, as the last sequence of `[..., 0, -1, 0]` should count towards valley. Sadly, ChatGPT had an issue to clarify it despite lengthy conversation.
+
+Date: 25.07.2023
